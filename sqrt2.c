@@ -6,7 +6,7 @@
 
 double sqrt2(double approx, int steps)
 {
-  for (int i=0; i<=steps; ++i) {
+  for (int i=0; i<steps; ++i) {
   approx = .5*(approx + (2/approx)); 
   printf("[ Step %d ] %.50f\n", i, approx);
   }
