@@ -1,4 +1,4 @@
-#A (finite) approximation of the infinite idea of the square root of 2.
+#A finite approximation of the infinite approximation idea of the square root of 2.
 #By K-module
 
 #include <stdio.h>
